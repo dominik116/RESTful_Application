@@ -1,0 +1,16 @@
+[
+  {
+    "a_idArticle": 1,
+    "b_articleName": "Gafas",
+    "c_articleDescription": "Unas gafas de bucear preciosas.",
+    "d_articlePrice": 5.90,
+    "e_articleStock": 22
+  },
+  {
+    "a_idArticle": 2,
+    "b_articleName": "Pelota",
+    "c_articleDescription": "Pelota de fútbol.",
+    "d_articlePrice": 12.50,
+    "e_articleStock": 234
+  }
+]
